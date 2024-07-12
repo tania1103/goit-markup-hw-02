@@ -98,7 +98,7 @@ body {
     background-color: #404BBF;
 }
 
-.design-h2 {
+/*.design-h2 {
     font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
@@ -106,7 +106,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
 }
-
+*/
 .design-h3 {
     font-family: "Roboto";
     font-size: 20px;
@@ -124,7 +124,7 @@ body {
     color: #434455;
 }
 
-.design-h2-team {
+.design-h2 {
     font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
@@ -139,14 +139,23 @@ body {
     background-color: #FFFFFF;
 }
 
-.sectionteam > ul > li > h3 {
+.design-h31 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+/*
+{
     font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-align: center;
-}
+}*/
 
 .sectionteam > ul > li > p {
     font-family: "Roboto";

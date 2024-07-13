@@ -98,7 +98,7 @@ body {
     background-color: #404BBF;
 }
 
-.design-h3 {
+.design-htrei {
     font-family: "Roboto";
     font-size: 20px;
     font-weight: 500;
@@ -115,7 +115,7 @@ body {
     color: #434455;
 }
 
-.design-h2 {
+.design-hdoi {
     font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
@@ -125,7 +125,7 @@ body {
     color: #2e2f42;
     text-align: center;
 }
-.design-h2team{
+.design-hdoiteam{
     font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
@@ -157,7 +157,7 @@ body {
     background-color: #F4F4FD;
 }
 
-.design-h2porfolio{
+.design-hdoiporfolio{
     font-family: "Roboto";
     font-size: 36px;
     font-weight: 700;
